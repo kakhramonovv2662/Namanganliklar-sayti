@@ -29,7 +29,9 @@ body {
 }
 
 
-
+img {
+    display: block;
+}
 
 
 .header-contant {
@@ -180,7 +182,7 @@ body {
     padding: 30px 35px;
     background-color: #F6F6F9;
     border-radius: 5px;
-    margin-left: 85px;
+    margin-left: 50px;
 }
 
 .info-title-wrapper {
@@ -589,6 +591,7 @@ body {
     border-bottom: 1px solid #000;
     background: #133C82;
     opacity: 0.5;
+    border: none;
 }
 
 .sayt-contant {
